@@ -1,0 +1,1 @@
+console.log("Super Lite Result Portal Loaded");
